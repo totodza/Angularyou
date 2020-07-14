@@ -9,5 +9,5 @@ export class AppComponent {
   
  
   title: string  = 'Hola Angular ';
-  show:boolean=true;
+ 
 }
